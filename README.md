@@ -20,6 +20,6 @@ This project uses the Gemini API to summarize the contents of a web page by:
 
 ---
 
-## 📂 **Folder Structure**
+
 
 
