@@ -1,2 +1,25 @@
-# Website_Summary_Using_GenAi
-This project is a web page summarizer using the Gemini API. It allows users to extract and summarize the main content of any given webpage efficiently. The project makes an API call to Gemini, formats the input in a structured message, and generates a concise summary of the webpage content.
+# Website Summary using Gemini API
+
+This project creates a web page summarizer using the **Gemini AI model**. The notebook demonstrates how to structure API calls and handle responses to generate meaningful summaries from website content.
+
+---
+
+## 🚀 **Project Overview**
+This project uses the Gemini API to summarize the contents of a web page by:
+- Fetching the content of the web page.
+- Formatting input into a structured message for the Gemini model.
+- Generating a concise and meaningful summary.
+
+---
+
+## 🛠️ **Features**
+✅ Make API calls to the Gemini model  
+✅ Structure input messages for better response generation  
+✅ Build a function to create consistent prompts for summarization  
+✅ Output a clean and concise summary  
+
+---
+
+## 📂 **Folder Structure**
+
+
